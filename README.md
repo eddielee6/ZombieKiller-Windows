@@ -3,6 +3,9 @@
 
 A 2D zombie killing platform game I wrote in C++ back in 2009.
 
+## Download
+[ZombieKiller.zip](https://github.com/eddielee6/ZombieKiller-Windows/blob/master/ZombieKiller.zip?raw=true)
+
 ## Screenshots
 
 ### Level 1
